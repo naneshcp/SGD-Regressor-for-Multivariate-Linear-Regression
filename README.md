@@ -8,10 +8,10 @@ To write a program to predict the price of the house and number of occupants in 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import required libraries for model training, data manipulation, and scaling.
+2. Separate features (X) and target variables (y) for price and occupants.
+3. Split data into training and testing sets for both targets.
+4. Standardize features using StandardScaler for better performance.
 
 ## Program:
 ```
